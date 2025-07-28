@@ -13,13 +13,13 @@ canvas {
  
 #templateGrid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(70px, 1fr));
+    grid-template-columns: repeat(4, minmax(70px, 1fr));
     gap: 10px;
     padding: 10px;
     border: 1px solid #ccc;
     margin-top: 10px;
     background-color: #f9f9f9;
-    max-width: 400px;
+    max-width: 500px;
 }
 
 .template-item {
