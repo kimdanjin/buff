@@ -13,7 +13,7 @@ canvas {
  
 #templateGrid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(70px, 1fr));
+    grid-template-columns: repeat(5, minmax(70px, 1fr));
     gap: 10px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -83,3 +83,4 @@ canvas {
 
 
 .gap10 {height:10px;clear:both;overflow:hidden;display:block;}
+
